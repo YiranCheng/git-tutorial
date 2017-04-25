@@ -5,5 +5,4 @@
 
 - fix-C
 
-- feature-B
-
+- faeture-B
